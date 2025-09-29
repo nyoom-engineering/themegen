@@ -63,3 +63,13 @@ assume `ffi_map_to_xccolors` etc. are defined in rust
   ;; export to xccolors
   (->xccolors xcode))
 ```
+
+this will all be represented in a node view 
+
+users can define their own nodes by loading a `.fnl` file
+
+users can view the source code of existing nodes
+
+can export a workflow to github actions
+
+<img width="1390" height="862" alt="image" src="https://github.com/user-attachments/assets/65306ac6-d1b8-4745-8756-f9119a5c62a2" />
